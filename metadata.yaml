@@ -1,0 +1,32 @@
+_repo: SisaretRomaani_37001
+_version: 0.1.0
+alternative_title: Die Schwestern. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, Georg Moritz
+    - Ebers, George Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2011-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37001'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Egypt -- History -- 332-30 B.C. -- Fiction'
+title: 'Sisaret: Romaani'
+url: http://www.gutenberg.org/ebooks/37001
